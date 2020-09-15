@@ -2,11 +2,11 @@
 
 First Flutter UI challenge
 
-![Screenshot](https://raw.githubusercontent.com/bhushanudupa1/flutter-ui-1/master/screenshots/flutterui1.webp
+![Screenshot](https://raw.githubusercontent.com/bhushanudupa/flutter-ui-1/master/screenshots/flutterui1.jpg
 )
 
-## Source
-[Dribbble](https://dribbble.com/)
+## Inspired by
+Marcus Ng
 
 
 
